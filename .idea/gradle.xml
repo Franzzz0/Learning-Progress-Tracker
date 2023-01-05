@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/A proper sorted collection without duplicates" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/Even numbers go first" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/Removing duplicates and sorting" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/Substitution cipher" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/War and Peace" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Comparing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Method name" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Reverse sorting" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Advantages" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/The same pairs" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Fast for ArrayList" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Remove the same" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Declared fields" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reflection basics/What objects can be represented" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching in practice" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Who is who" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Lifecycle behavior" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Test fixture" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Failed assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Test driven development" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals() in Collections/Duplicate elements in HashSet" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals() in Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/A pair of methods to be overridden" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Where is the truth" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

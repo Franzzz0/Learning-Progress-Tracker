@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Learning Progress Tracker" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/Choosing the right collection" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/Comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/hashCode() and equals()" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/hashCode() and equals() in Collections" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/HashMap" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/LinkedList vs. ArrayList" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/Reflection basics" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/Runtime type checking" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/Test lifecycle annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Topics/Unit testing with JUnit" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/Choosing the right collection/A proper sorted collection without duplicates" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/Choosing the right collection" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/Comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/hashCode() and equals()" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/hashCode() and equals() in Collections" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/HashMap" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/LinkedList vs. ArrayList" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/Reflection basics" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/Runtime type checking" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/Test lifecycle annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/Topics/Unit testing with JUnit" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

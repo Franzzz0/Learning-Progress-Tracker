@@ -1,0 +1,12 @@
+content:
+- Floating-point types
+- Unit testing with JUnit
+- Reflection basics
+- Runtime type checking
+- LinkedList vs. ArrayList
+- Test lifecycle annotations
+- HashMap
+- Choosing the right collection
+- hashCode() and equals()
+- hashCode() and equals() in Collections
+- Comparator
